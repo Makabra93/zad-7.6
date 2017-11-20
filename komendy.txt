@@ -1,0 +1,19 @@
+	//////AUTOPREFIXER-CLI://////
+To start this program and set it to read from style.css to style.prefixed.css
+you have to type following command:
+
+"autoprefixer-cli -o  style.prefixed.css style.css"
+
+	//////NU-HTML-CHECKER://////
+To start this program and set it to read from all html files
+you have to type following command:
+
+"node_modules/.bin/nu-html-checker --formatter *.html" 
+
+
+
+
+
+
+
+
